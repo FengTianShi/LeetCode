@@ -1,5 +1,3 @@
-package java_code;
-
 class No_14_E_LongestCommonPrefix {
     public static void main(String[] args) {
         String[] strs = { "ab", "a" };

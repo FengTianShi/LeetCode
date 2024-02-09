@@ -1,5 +1,3 @@
-package java_code;
-
 public class No_21_E_MergeTwoSortedLists {
 
     static public class ListNode {

@@ -1,5 +1,3 @@
-package java_code;
-
 public class No_86_M_PartitionList {
     public ListNode partition(ListNode head, int x) {
 

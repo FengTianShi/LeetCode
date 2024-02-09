@@ -1,5 +1,3 @@
-package java_code;
-
 public class No_151_M_ReverseWordsInAString {
     public String reverseWords(String s) {
         StringBuilder sb = new StringBuilder();

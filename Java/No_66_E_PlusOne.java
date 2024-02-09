@@ -1,5 +1,3 @@
-package java_code;
-
 public class No_66_E_PlusOne {
     public static void main(String[] args) {
         int[] digits = { 4, 3, 2, 1 };

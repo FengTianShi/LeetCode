@@ -1,5 +1,3 @@
-package java_code;
-
 import java.util.ArrayList;
 
 public class No_933_E_NumberOfRecentCalls {

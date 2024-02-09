@@ -1,5 +1,3 @@
-package java_code;
-
 class ListNode {
     int val;
     ListNode next;

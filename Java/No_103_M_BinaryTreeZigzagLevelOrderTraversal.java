@@ -1,9 +1,5 @@
-package java_code;
-
 import java.util.ArrayList;
 import java.util.List;
-
-import java_code.No_100_E_SameTree.TreeNode;
 
 public class No_103_M_BinaryTreeZigzagLevelOrderTraversal {
     public static List<List<Integer>> resList = new ArrayList<>();

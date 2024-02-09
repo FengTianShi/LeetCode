@@ -1,5 +1,3 @@
-package java_code;
-
 public class No_9_E_PalindromeNumber {
     public static void main(String[] args) {
         int x = -1;

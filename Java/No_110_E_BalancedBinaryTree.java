@@ -1,5 +1,3 @@
-package java_code;
-
 public class No_110_E_BalancedBinaryTree {
 
     public static class TreeNode {

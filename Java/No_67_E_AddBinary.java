@@ -1,5 +1,3 @@
-package java_code;
-
 public class No_67_E_AddBinary {
     public static void main(String[] args) {
         String a = "1010";

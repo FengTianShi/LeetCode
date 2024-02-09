@@ -1,5 +1,3 @@
-package java_code;
-
 public class No_28_E_FindTheIndexOfTheFirstOccurrenceinAString {
     public int strStr(String haystack, String needle) {
         for (int i = 0; i < haystack.length(); i++) {

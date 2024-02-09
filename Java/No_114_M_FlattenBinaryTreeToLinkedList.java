@@ -1,5 +1,3 @@
-package java_code;
-
 public class No_114_M_FlattenBinaryTreeToLinkedList {
     private TreeNode p;
 

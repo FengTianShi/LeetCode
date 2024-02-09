@@ -1,5 +1,3 @@
-package java_code;
-
 public class No_70_E_ClimbingStairs {
     public static void main(String[] args) {
         System.out.println(climbStairs(35));

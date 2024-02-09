@@ -1,5 +1,3 @@
-package java_code;
-
 public class No_203_E_RemoveLinkedListElements {
 
     public class ListNode {

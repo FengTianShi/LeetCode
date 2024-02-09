@@ -1,5 +1,3 @@
-package java_code;
-
 class No_2_M_AddTwoNumbers {
     public ListNode AddTwoNumbers(ListNode l1, ListNode l2) {
         int over = 0;

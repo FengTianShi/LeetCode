@@ -1,5 +1,3 @@
-package java_code;
-
 public class No_35_E_SearchInsertPosition {
     public static void main(String[] args) {
         int[] nums = { 1, 3, 5 };

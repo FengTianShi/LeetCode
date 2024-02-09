@@ -1,5 +1,3 @@
-package java_code;
-
 public class No_58_E_LengthOfLastWord {
     public static void main(String[] args) {
         String s = "Hello";

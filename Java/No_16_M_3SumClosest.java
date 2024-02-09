@@ -1,5 +1,3 @@
-package java_code;
-
 import java.util.Arrays;
 
 class No_16_M_3SumClosest {

@@ -1,5 +1,3 @@
-package java_code;
-
 public class No_101_E_SymmetricTree {
     public static void main(String[] args) {
 

@@ -1,5 +1,3 @@
-package java_code;
-
 public class No_111_E_MinimumDepthOfBinaryTree {
     private int minLevel = Integer.MAX_VALUE;
 

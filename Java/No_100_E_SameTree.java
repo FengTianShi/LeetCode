@@ -1,5 +1,3 @@
-package java_code;
-
 public class No_100_E_SameTree {
 
     static class TreeNode {

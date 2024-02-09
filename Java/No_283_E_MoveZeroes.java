@@ -1,5 +1,3 @@
-package java_code;
-
 public class No_283_E_MoveZeroes {
     public static void main(String[] args) {
 

@@ -1,5 +1,3 @@
-package java_code;
-
 public class No_12_M_IntegerToRoman {
     public static void main(String[] args) {
         No_12_M_IntegerToRoman integerToRoman = new No_12_M_IntegerToRoman();

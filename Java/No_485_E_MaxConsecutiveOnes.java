@@ -1,5 +1,3 @@
-package java_code;
-
 public class No_485_E_MaxConsecutiveOnes {
     public static void main(String[] args) {
 

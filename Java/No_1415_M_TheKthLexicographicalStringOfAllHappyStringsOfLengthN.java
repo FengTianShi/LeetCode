@@ -1,5 +1,3 @@
-package java_code;
-
 public class No_1415_M_TheKthLexicographicalStringOfAllHappyStringsOfLengthN {
     public static void main(String[] args) {
         System.out.println(new No_1415_M_TheKthLexicographicalStringOfAllHappyStringsOfLengthN().getHappyString(3, 9));

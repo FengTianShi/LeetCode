@@ -1,5 +1,3 @@
-package java_code;
-
 public class No_4_H_MedianOfTwoSortedArrays {
     public static void main(String[] args) {
         No_4_H_MedianOfTwoSortedArrays medianOfTwoSortedArrays = new No_4_H_MedianOfTwoSortedArrays();

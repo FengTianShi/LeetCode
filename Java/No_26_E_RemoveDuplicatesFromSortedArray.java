@@ -1,5 +1,3 @@
-package java_code;
-
 import java.util.LinkedHashSet;
 
 public class No_26_E_RemoveDuplicatesFromSortedArray {

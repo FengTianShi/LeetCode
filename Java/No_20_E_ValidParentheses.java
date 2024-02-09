@@ -1,5 +1,3 @@
-package java_code;
-
 import java.util.Stack;
 
 public class No_20_E_ValidParentheses {

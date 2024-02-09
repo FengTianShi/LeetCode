@@ -1,5 +1,3 @@
-package java_code;
-
 public class No_112_E_PathSum {
     public static class TreeNode {
         int val;

@@ -1,5 +1,3 @@
-package java_code;
-
 public class No_83_E_RemoveDuplicatesFromSortedList {
 
     static class ListNode {

@@ -1,5 +1,3 @@
-package java_code;
-
 public class No_104_E_MaximumDepthOfBinaryTree {
 
     public static class TreeNode {

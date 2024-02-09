@@ -1,5 +1,3 @@
-package java_code;
-
 public class No_912_M_SortAnArray {
 
     public static void main(String[] args) {

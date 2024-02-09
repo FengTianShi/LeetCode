@@ -1,5 +1,3 @@
-package java_code;
-
 public class No_69_E_Sqrtx {
     public static void main(String[] args) {
         int x = 9;

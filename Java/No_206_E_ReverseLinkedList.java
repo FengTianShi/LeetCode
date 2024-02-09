@@ -1,5 +1,3 @@
-package java_code;
-
 public class No_206_E_ReverseLinkedList {
 
     public class ListNode {

@@ -1,5 +1,3 @@
-package java_code;
-
 import java.util.ArrayList;
 
 public class No_109_M_ConvertSortedListToBinarySearchTree {

@@ -1,7 +1,3 @@
-package java_code;
-
-import java_code.No_100_E_SameTree.TreeNode;
-
 public class No_108_E_ConvertSortedArrayToBinarySearchTree {
 
     public static TreeNode sortedArrayToBST(int[] nums) {
